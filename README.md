@@ -8,6 +8,6 @@
 ## Launch Challenge
 
 ```
-sudo docker build -t xss-B0T .
-sudo docker run  xss-B0T
+sudo docker build -t xss-b0t .
+sudo docker run  xss-b0t
 ```
