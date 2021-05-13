@@ -1,6 +1,6 @@
 # xss-bot
 
-#features
+# features
 
 1. ui included
 2. control waitduration
